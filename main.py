@@ -50,7 +50,7 @@ st.markdown(
 
 # Main Page
 if app_mode == "Home":
-    st.markdown('<div class="main-header">PLANT DISEASE RECOGNITION SYSTEM</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">AgroVision: Deep learning-based detection of plant diseases</div>', unsafe_allow_html=True)
     st.image("home1.jpg", use_column_width=True)
     st.markdown("""
     Welcome to the **Plant Disease Recognition System**! 🌿🔍
