@@ -8,6 +8,7 @@ Welcome to the **Plant Disease Recognition System**! This project uses deep lear
 - [Overview](#-overview)
 - [How It Works](#-how-it-works)
 - [Features](#-features)
+- [Dataset](#-dataset)
 
 ---
 
@@ -28,3 +29,7 @@ The Plant Disease Recognition System is a deep learning model trained to recogni
 - **High Accuracy**: Accuracy of the model is above 0.9
 - **Easy to Use**: Simple and intuitive interface for seamless user experience.
 - **Fast Processing**: Analyzes images quickly for timely decision-making.
+
+## DataSet
+
+here you can find the data set from that extract train , test , valid folders and include in your project -> https://drive.google.com/file/d/1_5G3Cz0WQtZeTxzsq5lrTUfEnNy78WeY/view
