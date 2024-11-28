@@ -74,12 +74,12 @@ elif app_mode == "About":
     st.markdown("""
     ### Dataset Information
     - The dataset is derived from a public repository, containing 87K images of healthy and diseased crops.
-    - Categorized into 38 classes, split into training (80%) and test (20%).
+    - Categorized into 38 classes, split into training (80%) and validation (20%).
     
     **Dataset Content:**
     - **Train:** 70,295 images
-    - **Test1:** 17,572 images
-    - **Test2 (for real world testing):** 33 images
+    - **Test:** 33 images
+    - **Validation:** 17,572 images
     """)
 
 # Disease Recognition
